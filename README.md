@@ -1,7 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF69B4,50:C71585,100:8A2BE2&section=header&text=Maha%20Asghar&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-<h1 align="center">Hi 👋, I'm Maha Asghar</h1>
-
 <h3 align="center">
 Android Developer • AI Enthusiast 
 </h3>
