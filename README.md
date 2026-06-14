@@ -1,16 +1,70 @@
-## Hi there 👋
+ Hi, I'm Maha Asghar
 
-<!--
-**MahaAsghar-codes/MahaAsghar-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Android Developer
+- JavaScript (Intermediate)
+- Python (Intermediate)
+- HTML, CSS (Intermediate)
+- SQL (Basic/Intermediate)
 
-Here are some ideas to get you started:
+I am a BS Computer Science student focused on Android Development using Kotlin & XML, with a growing interest in AI integration in mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ Skills:
+
+- Android Development (Kotlin + XML)
+- Android Studio
+- Firebase Authentication & Firestore
+- Supabase Integration
+- REST APIs Integration
+- OSMDroid (Map Integration)
+- Google Speech-to-Text API (Voice Commands)
+- MPAndroidChart (Graphs & Charts)
+
+  Web Development:
+- HTML, CSS, JavaScript (Intermediate)
+
+
+Backend & Databases:
+- Firebase Auth
+- Firebase Firestore
+- Supabase
+- MySQL
+- JavaMail API (Email Integration)
+
+
+  AI & Tools:
+- AI Integration in Android Apps
+- ChatGPT, Claude, DeepSeek
+- GitHub Copilot
+- Cursor AI
+- Antigravity Tools
+
+ Version Control:
+- Git
+- GitHub
+
+
+ Other Skills:
+- Linux Basics
+- GUI Development
+
+
+ What I'm Working On:
+
+- Android Applications using Kotlin & XML
+- AI-powered mobile app features
+- Real-world projects for portfolio building
+
+
+Goals:
+
+- Become a professional Android Developer
+- Build AI-powered mobile apps
+- Contribute to open source projects
+
+
+
+ Contact:
+
+Email: maha.asghar1311@gmail.com
