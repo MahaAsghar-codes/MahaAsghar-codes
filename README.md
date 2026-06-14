@@ -133,7 +133,7 @@ Building Android applications with Kotlin & XML and exploring AI integration in 
 
 | Language / Technology | Proficiency |
 |----------------------|-------------|
-| Android Development (Kotlin + XML) | Advanced |
+| Android Development (Kotlin + XML) | Intermediate / Advanced |
 | Python | Intermediate |
 | JavaScript | Intermediate |
 | HTML & CSS | Intermediate |
