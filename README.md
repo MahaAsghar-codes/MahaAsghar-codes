@@ -48,6 +48,98 @@ Building Android applications with Kotlin & XML and exploring AI integration in 
 
 ---
 
+# 📱 Android Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase" />
+</p>
+
+- Kotlin + XML
+- Android Studio
+- Firebase Authentication
+- Firebase Firestore
+- Supabase Integration
+- REST APIs Integration
+- OSMDroid (Map Integration)
+- Google Speech-to-Text API (Voice Commands)
+- MPAndroidChart (Graphs & Charts)
+
+---
+
+# 🌐 Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+- HTML (Intermediate)
+- CSS (Intermediate)
+- JavaScript (Intermediate)
+
+---
+
+# 🗄 Backend & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=firebase,mysql" />
+</p>
+
+- Firebase Authentication
+- Firebase Firestore
+- Supabase
+- MySQL
+- JavaMail API (Email Integration)
+
+---
+
+# 🤖 AI & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</p>
+
+- AI Integration in Android Apps
+- ChatGPT
+- Claude
+- DeepSeek
+- GitHub Copilot
+- Cursor AI
+- Antigravity Tools
+
+---
+
+# 🔄 Version Control
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+- Git
+- GitHub
+
+---
+
+# 💻 Other Skills
+
+- Python (Intermediate)
+- SQL (Basic / Intermediate)
+- Linux Basics
+- GUI Development
+
+---
+
+# 💻 Programming Languages
+
+| Language / Technology              | Proficiency          |
+| ---------------------------------- | -------------------- |
+| Android Development (Kotlin + XML) |  Intermediate        |
+| Python                             | Intermediate         |
+| JavaScript                         | Intermediate         |
+| HTML & CSS                         | Intermediate         |
+| SQL                                | Basic / Intermediate |
+
+---
+
 # 🚀 Currently Working On
 
 📱 Android Applications using Kotlin & XML
@@ -85,6 +177,33 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=MahaAsghar-codes&the
 
 ---
 
+# 🌟 Development Philosophy
+
+| Principle | Description |
+|------------|-------------|
+| Learning | Continuously improving Android development skills |
+| Innovation | Exploring AI integration in mobile applications |
+| Quality | Building practical and user-friendly applications |
+| Growth | Learning through real-world projects |
+| Collaboration | Contributing to open source projects |
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:maha.asghar1311@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+📧 <a href="mailto:maha.asghar1311@gmail.com"><b>maha.asghar1311@gmail.com</b></a>
+</p>
+
+---
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile!
@@ -93,4 +212,4 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=MahaAsghar-codes&the
 <h3 align="center">
 💙 Turning ideas into Android applications with the power of AI.
 </h3>
-```
+
