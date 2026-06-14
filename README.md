@@ -88,11 +88,9 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=MahaAsghar-codes&the
 # 📫 Connect With Me
 
 <p align="center">
-
 <a href="mailto:maha.asghar1311@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-maha.asghar1311%40gmail.com-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 ---
