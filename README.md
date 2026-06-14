@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:FF69B4,50:C71585,100:8A2BE2&section=header&text=Maha%20Asghar&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+
 <h1 align="center">Hi 👋, I'm Maha Asghar</h1>
 
 <h3 align="center">
@@ -91,7 +93,6 @@ Building Android applications with Kotlin & XML and exploring AI integration in 
 - JavaMail API (Email Integration)
 
 ---
-
 # 🤖 AI & Tools
 
 <p align="left">
@@ -128,15 +129,15 @@ Building Android applications with Kotlin & XML and exploring AI integration in 
 
 ---
 
-# 💻 Programming Languages
+# 💻 Programming Languages & Technologies
 
-| Language / Technology              | Proficiency          |
-| ---------------------------------- | -------------------- |
-| Android Development (Kotlin + XML) |  Intermediate        |
-| Python                             | Intermediate         |
-| JavaScript                         | Intermediate         |
-| HTML & CSS                         | Intermediate         |
-| SQL                                | Basic / Intermediate |
+| Language / Technology | Proficiency |
+|----------------------|-------------|
+| Android Development (Kotlin + XML) | Advanced |
+| Python | Intermediate |
+| JavaScript | Intermediate |
+| HTML & CSS | Intermediate |
+| SQL | Basic / Intermediate |
 
 ---
 
@@ -150,20 +151,23 @@ Building Android applications with Kotlin & XML and exploring AI integration in 
 
 ---
 
+
 # 📊 GitHub Analytics
 
 <p align="center">
-<img width="49%"
-src="https://github-readme-stats.vercel.app/api?username=MahaAsghar-codes&show_icons=true&theme=radical&hide_border=true"/>
+  <img width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=MahaAsghar-codes&show_icons=true&hide_border=true&bg_color=1A102C&title_color=FF69B4&icon_color=DA70D6&text_color=FFFFFF&border_radius=20"/>
 
-<img width="37%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahaAsghar-codes&layout=compact&theme=nightowl&hide_border=true"/>
+  <img width="37%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahaAsghar-codes&layout=compact&hide_border=true&bg_color=1A102C&title_color=FF69B4&text_color=FFFFFF&border_radius=20"/>
 </p>
 
 <p align="center">
-<img width="60%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=MahaAsghar-codes&theme=tokyonight&hide_border=true"/>
+  <img width="60%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=MahaAsghar-codes&background=1A102C&ring=FF69B4&fire=DA70D6&currStreakLabel=FF69B4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=B0B0B0&hide_border=true&border_radius=20"/>
 </p>
+
+
 
 ---
 
@@ -212,4 +216,7 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=MahaAsghar-codes&the
 <h3 align="center">
 💙 Turning ideas into Android applications with the power of AI.
 </h3>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:FF69B4,50:C71585,100:8A2BE2&section=footer&animation=twinkling"/>
+
 
