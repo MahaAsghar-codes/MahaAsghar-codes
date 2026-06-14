@@ -193,21 +193,7 @@ Building Android applications with Kotlin & XML and exploring AI integration in 
 
 ---
 
-# 📫 Connect With Me
 
-<p align="center">
-
-<a href="mailto:maha.asghar1311@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-📧 <a href="mailto:maha.asghar1311@gmail.com"><b>maha.asghar1311@gmail.com</b></a>
-</p>
-
----
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile!
