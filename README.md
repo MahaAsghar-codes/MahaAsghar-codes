@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Maha Asghar</h1>
 
 <h3 align="center">
-Android Developer • AI Enthusiast • BS Computer Science Student
+Android Developer • AI Enthusiast 
 </h3>
 
 <p align="center">
