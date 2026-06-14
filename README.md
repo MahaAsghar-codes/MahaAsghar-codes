@@ -1,70 +1,107 @@
- Hi, I'm Maha Asghar
+<h1 align="center">Hi 👋, I'm Maha Asghar</h1>
 
- - Android Developer
-- JavaScript (Intermediate)
-- Python (Intermediate)
-- HTML, CSS (Intermediate)
-- SQL (Basic/Intermediate)
+<h3 align="center">
+Android Developer • AI Enthusiast • BS Computer Science Student
+</h3>
 
-I am a BS Computer Science student focused on Android Development using Kotlin & XML, with a growing interest in AI integration in mobile applications.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Android+Developer;AI+Enthusiast;Kotlin+%2B+XML+Developer;Building+Smart+Mobile+Applications" />
+</p>
 
+<p align="center">
+Building Android applications with Kotlin & XML and exploring AI integration in mobile applications.
+</p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MahaAsghar-codes&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
 
- Skills:
+<img src="https://img.shields.io/github/followers/MahaAsghar-codes?style=for-the-badge&color=blueviolet"/>
 
-- Android Development (Kotlin + XML)
-- Android Studio
-- Firebase Authentication & Firestore
-- Supabase Integration
-- REST APIs Integration
-- OSMDroid (Map Integration)
-- Google Speech-to-Text API (Voice Commands)
-- MPAndroidChart (Graphs & Charts)
+<img src="https://img.shields.io/github/stars/MahaAsghar-codes?style=for-the-badge&color=purple"/>
+</p>
 
-  Web Development:
-- HTML, CSS, JavaScript (Intermediate)
+---
 
+# 👩‍💻 About Me
 
-Backend & Databases:
-- Firebase Auth
-- Firebase Firestore
-- Supabase
-- MySQL
-- JavaMail API (Email Integration)
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
+✨ BS Computer Science Student
 
-  AI & Tools:
-- AI Integration in Android Apps
-- ChatGPT, Claude, DeepSeek
-- GitHub Copilot
-- Cursor AI
-- Antigravity Tools
+📱 Android Developer
 
- Version Control:
-- Git
-- GitHub
+🤖 Passionate about AI Integration in Mobile Applications
 
+🚀 Building real-world projects for portfolio development
 
- Other Skills:
-- Linux Basics
-- GUI Development
+💡 Creating smart and user-friendly applications
 
+🌱 Continuously learning and improving
 
- What I'm Working On:
+---
 
-- Android Applications using Kotlin & XML
-- AI-powered mobile app features
-- Real-world projects for portfolio building
+# ⚡ Tech Stack
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,firebase,html,css,js,python,mysql,git,github,linux,vscode" />
+</p>
 
-Goals:
+---
 
-- Become a professional Android Developer
-- Build AI-powered mobile apps
-- Contribute to open source projects
+# 🚀 Currently Working On
 
+📱 Android Applications using Kotlin & XML
 
+🤖 AI-powered Mobile App Features
 
- Contact:
+📂 Real-world Projects for Portfolio Building
 
-Email: maha.asghar1311@gmail.com
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=MahaAsghar-codes&show_icons=true&theme=radical&hide_border=true"/>
+
+<img width="37%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahaAsghar-codes&layout=compact&theme=nightowl&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="60%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=MahaAsghar-codes&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🌟 Goals
+
+✅ Become a Professional Android Developer
+
+✅ Build AI-powered Mobile Applications
+
+✅ Contribute to Open Source Projects
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:maha.asghar1311@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile!
+</h3>
+
+<h3 align="center">
+💙 Turning ideas into Android applications with the power of AI.
+</h3>
+```
